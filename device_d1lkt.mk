@@ -5,7 +5,6 @@ $(call inherit-product, device/common/gps/gps_us_supl.mk)
 
 $(call inherit-product-if-exists, vendor/lge/d1lkt/d1lkt-vendor.mk)
 
-DEVICE_PACKAGE_OVERLAYS += device/lge/d1lkt/overlay
 
 LOCAL_PATH := device/lge/d1lkt
 ifeq ($(TARGET_PREBUILT_KERNEL),)
