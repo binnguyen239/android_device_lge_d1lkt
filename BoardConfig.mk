@@ -30,3 +30,4 @@ TARGET_PREBUILT_KERNEL := device/lge/d1lkt/kernel
 BOARD_HAS_NO_SELECT_BUTTON := true
 
 TARGET_RECOVERY_FSTAB = device/lge/d1lkt/fstab.d1lkt
+RECOVERY_FSTAB_VERSION = 2
