@@ -1,4 +1,7 @@
-android_device_lge_d1lkt
-========================
+CyanogenMod11.0 device tree for LG-F160L (LG Optimus LTE2) - Kitkat Branch
 
-LG Optimus LTE2
+Build requirements:
+
+device/lge/msm8960-common
+
+Working: not now
